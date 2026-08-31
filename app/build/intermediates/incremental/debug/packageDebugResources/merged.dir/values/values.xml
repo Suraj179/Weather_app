@@ -40,11 +40,6 @@
     <string name="unit_toggle">Use \u00B0F instead of \u00B0C</string>
     <string name="view_saved">View Saved Records</string>
     <string name="wind_speed">Wind Speed</string>
-    <style name="Base.Theme.WeatherApp" parent="Theme.Material3.DayNight.NoActionBar">
-        
-        <item name="fontFamily">@font/onepiece_font</item>
-        <item name="android:fontFamily">@font/onepiece_font</item>
-    </style>
     <style name="PrimaryButton" parent="Widget.MaterialComponents.Button">
         <item name="android:textAllCaps">false</item>
         <item name="cornerRadius">14dp</item>

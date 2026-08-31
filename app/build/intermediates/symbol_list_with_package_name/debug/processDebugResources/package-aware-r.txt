@@ -3164,7 +3164,6 @@ drawable notify_panel_notification_icon_bg
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-font onepiece_font
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -4257,7 +4256,6 @@ style Base_Theme_MaterialComponents_Light_Dialog_Bridge
 style Base_Theme_MaterialComponents_Light_Dialog_FixedSize
 style Base_Theme_MaterialComponents_Light_Dialog_MinWidth
 style Base_Theme_MaterialComponents_Light_DialogWhenLarge
-style Base_Theme_WeatherApp
 style Base_ThemeOverlay_AppCompat
 style Base_ThemeOverlay_AppCompat_ActionBar
 style Base_ThemeOverlay_AppCompat_Dark

@@ -24,7 +24,6 @@ drawable ic_list
 drawable ic_logout
 drawable ic_refresh
 drawable ic_share
-font onepiece_font
 id btnBack
 id btnDelete
 id btnEdit
@@ -96,7 +95,6 @@ string share
 string unit_toggle
 string view_saved
 string wind_speed
-style Base.Theme.WeatherApp
 style PrimaryButton
 style RoundedInput
 style Theme.WeatherApp
