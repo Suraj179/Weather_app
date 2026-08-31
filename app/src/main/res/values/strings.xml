@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="saved_records">Saved Records</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="dont_have_account">Don\'t have an account? Sign up</string>
+    <string name="already_have_account">Already have an account? Log in</string>
+    <string name="logout">Log Out</string>
+    <string name="refresh">Refresh</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="save_record">Save this record</string>
+    <string name="share">Share</string>
+    <string name="view_saved">View Saved Records</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="no_records">No saved weather records yet.</string>
+    <string name="unit_toggle">Use \u00B0F instead of \u00B0C</string>
+    <string name="settings">Settings</string>
+</resources>

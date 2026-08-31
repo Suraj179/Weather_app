@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-45:/layout/dialog_edit_record.xml",
+        "source": "com.example.weatherapp-main-48:/layout/dialog_edit_record.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-45:/layout/activity_register.xml",
+        "source": "com.example.weatherapp-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-45:/layout/activity_saved_records.xml",
+        "source": "com.example.weatherapp-main-48:/layout/activity_saved_records.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-45:/layout/item_weather_record.xml",
+        "source": "com.example.weatherapp-main-48:/layout/item_weather_record.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-45:/layout/activity_home.xml",
+        "source": "com.example.weatherapp-main-48:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "com.example.weatherapp-main-48:/layout/activity_login.xml"
+    }
+]

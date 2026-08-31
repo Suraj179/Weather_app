@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.weatherapp-debug-46:/layout_dialog_edit_record.xml.flat",
+        "source": "com.example.weatherapp-main-48:/layout/dialog_edit_record.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.weatherapp-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/font_onepiece_font.ttf.flat",
+        "source": "com.example.weatherapp-main-48:/font/onepiece_font.ttf"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.weatherapp-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/layout_activity_register.xml.flat",
+        "source": "com.example.weatherapp-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/layout_activity_login.xml.flat",
+        "source": "com.example.weatherapp-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_bg_gradient.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/layout_activity_saved_records.xml.flat",
+        "source": "com.example.weatherapp-main-48:/layout/activity_saved_records.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_bg_pill_white.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/bg_pill_white.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_share.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/layout_item_weather_record.xml.flat",
+        "source": "com.example.weatherapp-main-48:/layout/item_weather_record.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_bg_card_rounded.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/bg_card_rounded.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_list.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_list.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_edit.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_delete.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/drawable_ic_logout.xml.flat",
+        "source": "com.example.weatherapp-main-48:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-46:/layout_activity_home.xml.flat",
+        "source": "com.example.weatherapp-main-48:/layout/activity_home.xml"
+    }
+]
